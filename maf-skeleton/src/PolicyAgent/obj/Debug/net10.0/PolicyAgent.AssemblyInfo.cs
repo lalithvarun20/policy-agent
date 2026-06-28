@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolicyAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+817af214960333ddd04f4a0ddb681bcd212ce490")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcda88ed7c694efe883965091cdd8033d7938e3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolicyAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolicyAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

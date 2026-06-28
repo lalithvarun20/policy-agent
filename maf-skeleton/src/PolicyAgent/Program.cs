@@ -103,6 +103,13 @@ POLICY EXCERPTS:
     }
 });
 
+// Run evals if --eval flag is passed
+if (args.Contains("--eval"))
+{
+    await Evals.RunAsync(githubToken);
+    return;
+}
+
 app.Run();
 
 static List<PolicyChunk> SearchPolicies(List<PolicyDocument> documents, string question)
